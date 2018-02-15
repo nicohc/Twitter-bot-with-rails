@@ -15,6 +15,7 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'bootstrap-sass', '3.3.7'
+gem 'twitter'
 gem 'dotenv-rails', groups: [:development, :test]
 
 
@@ -30,6 +31,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
+  gem 'dotenv-rails'
 end
 
 group :development do
