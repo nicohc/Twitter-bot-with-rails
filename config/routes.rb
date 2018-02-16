@@ -6,5 +6,5 @@ get   'home/index', link_to:'home#new'
 post  'home/index', link_to:'home#create'
 post  '/', to:'home#create'
 
-resources :home
+
 end
