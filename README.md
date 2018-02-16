@@ -1,25 +1,8 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Twitter-bot-with-rails
+
+POur voir le projet en action :
+https://twittapp-ror.herokuapp.com/
+
+POur voir le resultat sur twitter :
+https://twitter.com/thpnico
